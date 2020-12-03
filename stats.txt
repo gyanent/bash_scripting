@@ -1,0 +1,2 @@
+computer1 | Core i7 | 16GB RAM | 512 GB SSD 
+computer2 | Core i5 | 32GB RAM | 256 GB SSD
